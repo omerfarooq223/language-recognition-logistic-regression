@@ -109,3 +109,5 @@ Best result achieved with `LR=0.08`, `Lambda=0.02`, `epochs=3000`.
 **AI-372 — Machine Learning**  
 Department of Artificial Intelligence, UMT  
 Fall Semester 2025
+
+Author: Muhammad Umar Farooq
